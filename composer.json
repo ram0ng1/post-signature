@@ -1,6 +1,6 @@
 {
     "name": "ramon/post-signature",
-    "description": "Renderiza a bio do usuário como assinatura no rodapé de cada post.",
+    "description": "Renders the user bio as a post signature for Flarum 2",
     "type": "flarum-extension",
     "license": "MIT",
     "require": {
@@ -17,8 +17,8 @@
             "title": "Post Signature",
             "category": "feature",
             "icon": {
-                "name": "fas fa-signature",
-                "backgroundColor": "#3949ab",
+                "image": "icon.svg",
+                "backgroundColor": "#fff",
                 "color": "#fff"
             }
         }
