@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="icon.svg" width="80" height="80" alt="Post Signature">
+</p>
+
 <h1 align="center">Post Signature</h1>
 
 <p align="center">

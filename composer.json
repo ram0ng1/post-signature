@@ -17,8 +17,8 @@
             "title": "Post Signature",
             "category": "feature",
             "icon": {
-                "name": "fas fa-signature",
-                "backgroundColor": "#3949ab",
+                "image": "icon.svg",
+                "backgroundColor": "#fff",
                 "color": "#fff"
             }
         }
